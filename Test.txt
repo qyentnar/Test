@@ -1,7 +1,11 @@
 Hello
 1111
 <<<<<<< HEAD
+<<<<<<< HEAD
 eueueuedasd
 =======
 282822828
 >>>>>>> 38cf62ef33ad50d5c618751b703c4bd9e76ad867
+=======
+eueueue
+>>>>>>> parent of f592ff6 (wedeqw)
